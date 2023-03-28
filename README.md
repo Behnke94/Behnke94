@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Behnke94
-- 👀 I’m interested in stock and BlockChain
+- 👀 I’m interested in stocks and BlockChain
 - 🌱 I’m currently learning Java & Solidity
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me - Simply create a dummy repo, open a new issue and use @Behnke94 to notify me
